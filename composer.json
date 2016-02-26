@@ -1,5 +1,5 @@
 {
-    "name":        "dms/dms-filter-bundle",
+    "name":        "electrolutz/dms-filter-bundle",
     "type":        "symfony-bundle",
     "description": "DMS Filter Bundle, makes Annotation based entity filtering available in Symfony",
     "keywords":    ["filter", "dms", "symfony", "bundle"],
